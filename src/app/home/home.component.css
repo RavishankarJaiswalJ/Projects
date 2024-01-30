@@ -1,0 +1,63 @@
+.SearchInput{
+    margin: 40px 16px;
+    border: 1px solid #555;
+    padding: 20px;
+    border-radius: 30px;
+    /* width: 100%; */
+}
+.location{
+    /* font-size: 20px; */
+    position: absolute;
+    color:#555;
+    border-color: #555;
+    font-size: 30px;
+    font-weight: 100;
+    z-index: 1;
+}
+.whereTo{
+    width: 500px;
+    height: 50px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    text-align: left;
+    padding-left: 40px;
+    font-size: 15px;
+    opacity: 0.75;
+    z-index: 2;
+    border-style: none;
+    
+}
+.When{
+    width: 500px;
+    height: 50px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    text-align: left;
+    padding-left: 40px;
+    font-size: 15px;
+    opacity: 0.75;
+    /* z-index: 2; */
+    border-style: none;
+
+}
+.event{
+    position:absolute;
+    color: #555;
+}
+span{
+    font-size: 50px;
+    opacity: 0.75;
+    color: #555;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.SearchButton{
+    color:#fff;
+    /* background-color: red; */
+    padding: 16px 40px;
+    border-radius: 30px;
+    border-color:#fff;
+    width: 200px;
+    height: 50px;
+}
