@@ -1,0 +1,46 @@
+<!-- <app-header></app-header> -->
+<!-- <div class="containt">
+  <app-nav></app-nav> 
+</div> -->
+<!-- <p>Home Component</p> -->
+<!-- <div class="home-main" fxlayout="row">
+  <div><app-card></app-card></div>
+  <div><app-card></app-card></div>
+  <div><app-card></app-card></div>
+</div> -->
+
+<div class="container">
+  <div>
+    <h1>Welocome {{ravi}}</h1>
+    <form (ngSubmit)="onSubmit()" #Welcome="ngForm">
+      <div class="form-group">
+        <label for="name">name</label>
+        <input type="text"  class="form-control" name="name" id="name" 
+        [(ngModel)]="model.name"
+         #name="ngModel">
+         <div [hidden]="name.valid || name.pristine" class="alert alert-danger">
+          Name is Required 
+         </div>
+         
+      </div>
+
+    </form>
+  </div>
+</div>
+
+<!-- <app-card routerLink="/myprofile"></app-card>
+<app-card></app-card>
+<button mat-button  extended (click)="openDialog()">Dialog</button>
+
+<app-forms></app-forms> -->
+<!-- <app-nav></app-nav>  -->
+
+<!-- <h1>{{title}}</h1>
+<nav>
+  <a routerLink="/heroes">Heroes</a>
+</nav>
+<router-outlet></router-outlet>
+<app-messages></app-messages> -->
+<!-- <app-nav></app-nav> 
+<app-header></app-header> -->
+<!-- <app-myprofile></app-myprofile> -->

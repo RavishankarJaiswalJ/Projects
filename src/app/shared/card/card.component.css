@@ -1,0 +1,13 @@
+.mat-caed-main{
+    /* color: blue; */
+    font-size:5px;
+    background-color: #2e6bdc;
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+    margin: 5px 10px 5px 10px;
+    color: #ffff;
+}
+p{
+    font-size: 15px;
+}

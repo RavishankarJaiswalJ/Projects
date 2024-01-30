@@ -1,0 +1,19 @@
+.example-spacer {
+    flex: 1 1 auto;
+    /* z-index: 2; */
+    
+  }
+  .mat-toolbar-main{
+    background-color: #2e6bdc;
+    height: 50px;
+  }
+
+  span{
+    color: #ffffff;
+  }
+  .menu-button{
+    background-color:#2e6bdc;
+    border: none;
+    
+  }
+

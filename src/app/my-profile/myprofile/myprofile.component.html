@@ -1,0 +1,18 @@
+<!-- <p>myprofile works!</p> -->
+
+<h1 mat-dialog-title>{{title}}</h1>
+<div mat-dialog-content>Lorem ipsum dolor sit amet.</div>
+<img [src]="imageUrl">
+
+<!-- <div  mat-dialog-action> -->
+    <!-- <button mat-button color="primary">close</button></div> -->
+<div mat-dialog-actions align="end">
+    <button mat-button  color="accent" (onclick)="delete()">delete</button>
+    <button mat-button (click)="openDialog()" mat-dialog-close>Launch dialog</button>
+    <p>{{title}}</p>
+    
+    <button mat-button (click)="handleButtonClick()">Click me</button>
+    <p [style.color]="colors">There is me</p>
+
+</div>
+
