@@ -1,0 +1,70 @@
+/* .sidenav
+{
+    padding: 20px 20px 20px 2px;
+}
+
+.sidenav,li{
+    display: flex;
+    list-style-type: none;
+    text-decoration-line: none;
+}
+
+.sidenav,li, button{
+    border: 0px;
+    background: none;
+    color: #0000ff;
+    font-size: 15px;
+    font-style:normal;
+    font-family:'Courier New', Courier, monospace;
+    display: flex;
+    font-display: 10px;
+    justify-content:space-between;
+
+}
+
+.sidenav1, li{
+    list-style-image: url('../../assets/photo/home.svg');
+    color: #0000ff;
+    background-color: gold;
+}
+.sidenav2{
+    list-style-image: url('../../assets/photo/benefits-sidebar-ico.svg');
+    color: #0000ff;
+}
+.sidenav3{
+    list-style-image: url('../../assets/photo/logo.svg');
+    color: #0000ff;
+}
+.sidenav4{
+    list-style-image: url('../../assets/photo/app-window-link-ico.svg');
+    color: #0000ff;
+}
+.sidenav5{
+    list-style-image: url('../../assets/photo/app-window-link-ico.svg');
+    color: #0000ff;
+}
+.sidenav6{
+    list-style-image: url('../../assets/photo/app-window-link-ico.svg');
+    color: #0000ff;
+}
+.sidenav7{
+    list-style-image: url('../../assets/photo/app-window-link-ico.svg');
+    color: #0000ff;
+}
+.sidenav8{
+    list-style-image: url('../../assets/photo/app-window-link-ico.svg');
+    color: #0000ff;
+}
+.sidenav9{
+    list-style-image: url('../../assets/photo/app-window-link-ico.svg');
+    color: #0000ff;
+}
+.sidenav10{
+    list-style-image: url('../../assets/photo/app-window-link-ico.svg');
+    color: #0000ff;
+}
+.sidenav11{
+    list-style-image: url('../../assets/photo/app-window-link-ico.svg');
+    color: #0000ff;
+}
+ */

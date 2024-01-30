@@ -1,0 +1,26 @@
+.nav{
+    display: flex;
+    background-color: #0000e6;
+    padding: 15px 20px 15px 10px;
+}
+.sidebarclass{
+    color: #ffffff;
+    /* background-color: #000099; */
+}
+/* .sidebar{
+    color: #ffffff;
+    border-color:solid  #ffffff 10px;
+    font-size: large;
+    border: solid blue;
+    padding: 10px;
+} */
+
+
+/* .sidebarLogo{
+    color: #ffffff;
+    /* color: blueviolet; */ 
+    /* width: 10px;
+}
+/* img{
+    color: white;
+} */
